@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1096717057119",
+    "firebase_url": "https://getyourhikeon2.firebaseio.com",
+    "project_id": "getyourhikeon2",
+    "storage_bucket": "getyourhikeon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096717057119:android:b832aead126c4edc",
+        "android_client_info": {
+          "package_name": "com.example.kranti_laptop.getyourhikeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096717057119-kbbj7lsm36h62jp9cvmaq6s980irk75q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kranti_laptop.getyourhikeon",
+            "certificate_hash": "c1613fe1b882673ee720646f4712db8e540a7d72"
+          }
+        },
+        {
+          "client_id": "1096717057119-9u7tcpjqir5ej5irn9kuft35h26r8s07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xyhP9pVzR6rFJL_p55_HTcoJ8pjICBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096717057119-9u7tcpjqir5ej5irn9kuft35h26r8s07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

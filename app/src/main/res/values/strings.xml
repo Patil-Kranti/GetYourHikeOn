@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Get Your Hike On</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_more">More</string>
+    <string-array
+        name="hikes">
+        <item>Enter Your Destination</item>
+        <item>Kungsleden</item>
+        <item>Everest</item>
+        <item>Triund</item>
+        <item>Kheerganga</item>
+        </string-array>
+</resources>
